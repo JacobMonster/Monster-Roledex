@@ -1,1 +1,1 @@
-# Monster-Roledex
+Aplikacja w React'cie insipirowana kursem z YouTube.
